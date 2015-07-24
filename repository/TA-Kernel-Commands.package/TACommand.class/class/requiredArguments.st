@@ -1,0 +1,3 @@
+command defaults
+requiredArguments
+	^ #()

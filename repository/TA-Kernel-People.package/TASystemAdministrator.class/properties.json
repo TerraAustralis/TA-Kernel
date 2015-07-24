@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Kernel-People",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TASystemAdministrator",
+	"pools" : [
+		 ],
+	"super" : "TASystemPerson",
+	"type" : "normal" }

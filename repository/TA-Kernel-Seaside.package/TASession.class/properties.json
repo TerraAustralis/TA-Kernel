@@ -1,0 +1,15 @@
+{
+	"category" : "TA-Kernel-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer",
+		"user" ],
+	"name" : "TASession",
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }

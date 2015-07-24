@@ -1,0 +1,4 @@
+Configuration
+componentClass
+
+	^ TAApplicationComponent 

@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Kernel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"identifier" ],
+	"name" : "TAIdentifiableObject",
+	"pools" : [
+		 ],
+	"super" : "TAObject",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "TA-Kernel-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SystemProcessor" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"queue",
+		"isProcessing",
+		"executionContext" ],
+	"name" : "TACommandProcessor",
+	"pools" : [
+		 ],
+	"super" : "TAIdentifiableObject",
+	"type" : "normal" }

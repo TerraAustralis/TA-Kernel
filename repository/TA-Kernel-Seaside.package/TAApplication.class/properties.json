@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Kernel-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAApplication",
+	"pools" : [
+		 ],
+	"super" : "WAApplication",
+	"type" : "normal" }

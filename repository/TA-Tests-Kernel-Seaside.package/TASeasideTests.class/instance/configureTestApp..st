@@ -1,0 +1,3 @@
+Configuration
+configureTestApp: testApp
+	self componentClass configureApplication: testApp

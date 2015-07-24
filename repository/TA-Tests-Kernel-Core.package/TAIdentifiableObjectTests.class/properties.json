@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-Kernel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAIdentifiableObjectTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

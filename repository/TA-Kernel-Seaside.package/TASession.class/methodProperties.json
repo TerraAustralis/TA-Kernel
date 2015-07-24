@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"announce:" : "jupiter 5/4/2015 18:12",
+		"announcer" : "jupiter 5/4/2015 17:35",
+		"ifLoggedIn:" : "jupiter 5/4/2015 17:40",
+		"initializeFilters" : "jupiter 05/02/2015 19:22",
+		"isLoggedIn" : "jupiter 5/4/2015 17:40",
+		"on:do:" : "jupiter 5/4/2015 17:36",
+		"subscribe:do:for:" : "jupiter 5/4/2015 17:36",
+		"user" : "jupiter 5/4/2015 17:41",
+		"user:" : "jupiter 5/4/2015 18:10",
+		"username" : "jupiter 5/4/2015 18:14" } }

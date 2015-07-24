@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTAKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTAKernel",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

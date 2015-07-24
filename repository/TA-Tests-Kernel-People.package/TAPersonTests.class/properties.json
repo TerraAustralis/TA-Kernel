@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-Kernel-People",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAPersonTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

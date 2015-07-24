@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-Kernel-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TASeasideTests",
+	"pools" : [
+		 ],
+	"super" : "BPSeasideWebDriverTestCase",
+	"type" : "normal" }

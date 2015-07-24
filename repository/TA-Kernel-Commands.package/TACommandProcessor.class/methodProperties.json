@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"resetSystemProcessor" : "jupiter 6/21/2015 12:04",
+		"systemProcessor" : "jupiter 6/21/2015 11:26" },
+	"instance" : {
+		"execute:" : "jupiter 6/21/2015 19:58",
+		"initialize" : "jupiter 6/21/2015 20:15",
+		"isEmpty" : "jupiter 6/22/2015 08:03",
+		"isProcessing" : "jupiter 6/22/2015 08:02",
+		"processCommand:" : "jupiter 6/22/2015 08:30",
+		"processingLoop" : "jupiter 6/21/2015 19:56",
+		"queue" : "jupiter 6/22/2015 08:22",
+		"reset" : "jupiter 6/21/2015 11:31",
+		"start" : "jupiter 6/21/2015 11:44",
+		"startProcessing" : "jupiter 6/21/2015 11:53",
+		"stop" : "jupiter 6/21/2015 11:44",
+		"stopProcessing" : "jupiter 6/21/2015 11:51" } }

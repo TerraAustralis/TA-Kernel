@@ -1,0 +1,3 @@
+private
+stopProcessing
+	isProcessing := false

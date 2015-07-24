@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Kernel-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"command" ],
+	"name" : "TACommandError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

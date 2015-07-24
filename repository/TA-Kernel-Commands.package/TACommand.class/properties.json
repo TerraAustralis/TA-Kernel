@@ -1,0 +1,20 @@
+{
+	"category" : "TA-Kernel-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sender",
+		"receiver",
+		"arguments",
+		"priority",
+		"memento",
+		"executionContext",
+		"result" ],
+	"name" : "TACommand",
+	"pools" : [
+		 ],
+	"super" : "TAIdentifiableObject",
+	"type" : "normal" }

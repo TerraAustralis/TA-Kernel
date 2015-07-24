@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-Kernel-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TATestCommand",
+	"pools" : [
+		 ],
+	"super" : "TACommand",
+	"type" : "normal" }

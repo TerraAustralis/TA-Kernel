@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Kernel-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAPriorityQueue",
+	"pools" : [
+		 ],
+	"super" : "SharedQueue",
+	"type" : "normal" }
