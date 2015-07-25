@@ -1,3 +1,0 @@
-authorisation
-checkAuthorisation
-	authorisation checkFor: self

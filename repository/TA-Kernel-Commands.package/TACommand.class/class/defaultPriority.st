@@ -1,3 +1,0 @@
-priority
-defaultPriority
-	^ 5

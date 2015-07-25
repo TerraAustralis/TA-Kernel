@@ -1,3 +1,0 @@
-priority
-lowPriority
-	^ 7

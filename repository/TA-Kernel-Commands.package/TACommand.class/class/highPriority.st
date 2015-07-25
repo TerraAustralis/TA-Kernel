@@ -1,3 +1,0 @@
-priority
-highPriority
-	^ 3

@@ -1,3 +1,0 @@
-priority
-backgroundPriority
-	^ 9

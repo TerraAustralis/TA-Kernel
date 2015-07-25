@@ -1,3 +1,0 @@
-priority
-immediatePriority
-	^ 1
