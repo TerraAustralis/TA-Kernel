@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"givenName",
+		"familyName",
+		"emailAddress" ],
 	"name" : "TAAbstractPerson",
 	"pools" : [
 		 ],

@@ -1,14 +1,14 @@
 {
-	"category" : "TA-Kernel-People",
+	"category" : "TA-Kernel-Seaside",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"authorisation" ],
-	"name" : "TASystemPerson",
+		"person" ],
+	"name" : "TAUserAuthComponent",
 	"pools" : [
 		 ],
-	"super" : "TAAbstractPerson",
+	"super" : "TAAbstractComponent",
 	"type" : "normal" }

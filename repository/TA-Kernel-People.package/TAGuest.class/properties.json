@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"authorisation" ],
-	"name" : "TASystemPerson",
+		 ],
+	"name" : "TAGuest",
 	"pools" : [
 		 ],
-	"super" : "TAAbstractPerson",
+	"super" : "TASystemPerson",
 	"type" : "normal" }
