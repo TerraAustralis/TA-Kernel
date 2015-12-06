@@ -1,0 +1,3 @@
+seaside config
+configurationClass
+  ^ TAApplicationConfiguration

@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Kernel-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 12/06/2015 14:13",
+	"instvars" : [
+		 ],
+	"name" : "TAApplicationRoot",
+	"pools" : [
+		 ],
+	"super" : "TAAbstractComponent",
+	"type" : "normal" }

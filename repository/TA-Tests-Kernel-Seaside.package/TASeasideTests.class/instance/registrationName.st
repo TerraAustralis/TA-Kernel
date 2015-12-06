@@ -1,4 +1,3 @@
 Configuration
 registrationName
-
-	^ self componentClass defaultUrl, 'Test'
+  ^ self componentClass url , 'Test'

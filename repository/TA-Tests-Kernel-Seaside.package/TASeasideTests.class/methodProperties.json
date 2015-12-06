@@ -2,10 +2,11 @@
 	"class" : {
 		"webDriverPort" : "jupiter 5/3/2015 16:35" },
 	"instance" : {
-		"componentClass" : "jupiter 5/4/2015 19:51",
-		"configureTestApp:" : "jupiter 5/3/2015 15:26",
+		"canbeRoot" : "jupiter 12/05/2015 21:30",
+		"componentClass" : "jupiter 12/06/2015 16:25",
+		"configureTestApp:" : "jupiter 12/06/2015 16:41",
 		"desiredDriverBrowserCapabilities" : "jupiter 6/14/2015 20:54",
-		"registrationName" : "jupiter 5/3/2015 15:34",
+		"registrationName" : "jupiter 12/06/2015 16:41",
 		"setUp" : "jupiter 5/3/2015 16:35",
 		"testHeading" : "jupiter 5/3/2015 17:57",
-		"testTitle" : "jupiter 5/3/2015 17:06" } }
+		"testTitle" : "jupiter 12/06/2015 16:25" } }

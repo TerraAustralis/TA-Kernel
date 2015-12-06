@@ -1,3 +1,3 @@
 Testing
 testTitle
-	self assert: driver getTitle = 'Terra Australis'
+  self assert: driver getTitle = 'TAApplicationComponent'

@@ -1,0 +1,3 @@
+PATH=./chrome:$PATH
+java -jar selenium-server-standalone-2.45.0.jar -port 4445 -Dwebdriver.enable.native.events=1
+

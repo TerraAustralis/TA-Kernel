@@ -1,4 +1,3 @@
 Configuration
 componentClass
-
-	^ TAApplicationComponent 
+  ^ TAApplicationRoot
