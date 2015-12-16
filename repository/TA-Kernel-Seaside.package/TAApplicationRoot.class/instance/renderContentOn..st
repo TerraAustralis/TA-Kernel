@@ -2,4 +2,5 @@ as yet unclassified
 renderContentOn: canvas
   canvas heading
     level1;
-    with: 'Terra Australis'
+    with: (self application preferenceAt: #'title').
+  self renderAuthorisationOn: canvas

@@ -2,14 +2,20 @@
 	"class" : {
 		"applicationClass" : "jupiter 12/06/2015 16:14",
 		"canbeRoot" : "jupiter 12/06/2015 14:13",
-		"configurationClass" : "jupiter 12/06/2015 16:16",
-		"configureNewApplication:" : "jupiter 12/06/2015 16:17",
+		"configurationClasses" : "jupiter 12/16/2015 01:17",
+		"configureNewApplication:" : "jupiter 12/16/2015 01:18",
 		"exceptionHandlerClass" : "jupiter 12/06/2015 16:13",
 		"install" : "jupiter 12/06/2015 16:14",
+		"libraryClasses" : "jupiter 12/16/2015 13:34",
 		"reinstall" : "jupiter 12/06/2015 14:13",
 		"remove" : "jupiter 12/06/2015 14:13",
+		"seasideEmailAccount" : "jupiter 12/16/2015 13:43",
+		"seasideEmailPassword" : "jupiter 12/16/2015 13:43",
+		"seasideEmailSMTPHost" : "jupiter 12/16/2015 13:44",
 		"sessionClass" : "jupiter 12/06/2015 16:12",
 		"url" : "jupiter 12/06/2015 14:13" },
 	"instance" : {
-		"renderContentOn:" : "jupiter 12/06/2015 16:43",
-		"updateRoot:" : "jupiter 12/06/2015 16:11" } }
+		"authorisationComponent" : "jupiter 12/16/2015 22:44",
+		"renderAuthorisationOn:" : "jupiter 12/16/2015 22:59",
+		"renderContentOn:" : "jupiter 12/16/2015 22:59",
+		"updateRoot:" : "jupiter 12/16/2015 00:07" } }

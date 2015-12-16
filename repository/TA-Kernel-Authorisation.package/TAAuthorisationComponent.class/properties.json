@@ -1,13 +1,14 @@
 {
-	"category" : "TA-Kernel-Seaside",
+	"category" : "TA-Kernel-Authorisation",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "TAApplicationRoot",
+		"person",
+		"selectedAction" ],
+	"name" : "TAAuthorisationComponent",
 	"pools" : [
 		 ],
 	"super" : "TAAbstractComponent",

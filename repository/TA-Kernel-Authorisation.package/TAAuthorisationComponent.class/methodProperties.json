@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actions" : "jupiter 12/16/2015 00:34",
+		"buildSignInComponent" : "jupiter 12/16/2015 22:44",
+		"buildSignUpComponent" : "jupiter 12/16/2015 22:45",
+		"initialize" : "jupiter 12/16/2015 00:33",
+		"person" : "jupiter 12/16/2015 22:43",
+		"renderAuthorisationOn:" : "jupiter 12/16/2015 00:48",
+		"renderContentOn:" : "jupiter 12/16/2015 22:54",
+		"selectedActionId" : "jupiter 12/16/2015 00:35",
+		"signInComponent" : "jupiter 12/16/2015 22:45",
+		"signUpComponent" : "jupiter 12/16/2015 22:45" } }

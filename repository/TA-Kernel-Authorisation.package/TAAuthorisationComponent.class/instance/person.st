@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 person
   ^ person ifNil: [ person := TASystemPerson unauthorisedPerson ]

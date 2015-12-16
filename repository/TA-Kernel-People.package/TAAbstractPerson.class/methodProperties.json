@@ -2,4 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"at:" : "jupiter 12/16/2015 15:09",
+		"at:ifAbsent:" : "jupiter 12/16/2015 15:10",
+		"at:ifAbsentPut:" : "jupiter 12/16/2015 15:10",
+		"at:put:" : "jupiter 12/16/2015 15:09",
+		"descriptionEmailAddress" : "jupiter 12/16/2015 20:28",
+		"descriptionFamilyName" : "jupiter 12/16/2015 14:30",
+		"descriptionGivenName" : "jupiter 12/16/2015 14:30",
+		"emailAddress" : "jupiter 12/16/2015 14:36",
+		"emailAddress:" : "jupiter 12/16/2015 14:36",
+		"familyName" : "jupiter 12/16/2015 14:36",
+		"familyName:" : "jupiter 12/16/2015 14:36",
+		"givenName" : "jupiter 12/16/2015 14:36",
+		"givenName:" : "jupiter 12/16/2015 14:36",
+		"initialize" : "jupiter 12/16/2015 15:11" } }

@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfTAKernel!
+SystemOrganization addCategory: #'BaselineOfTAKernel'!

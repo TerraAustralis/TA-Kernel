@@ -1,14 +1,15 @@
 {
-	"category" : "TA-Kernel-Seaside",
+	"category" : "TA-Kernel-People",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"person" ],
-	"name" : "TAUserAuthComponent",
+		"salt",
+		"passwordHash" ],
+	"name" : "TAAuthorisedPerson",
 	"pools" : [
 		 ],
-	"super" : "TAAbstractComponent",
+	"super" : "TASystemPerson",
 	"type" : "normal" }
