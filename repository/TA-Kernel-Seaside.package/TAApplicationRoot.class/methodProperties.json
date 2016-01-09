@@ -1,12 +1,12 @@
 {
 	"class" : {
 		"applicationClass" : "jupiter 12/06/2015 16:14",
-		"canbeRoot" : "jupiter 12/06/2015 14:13",
+		"canBeRoot" : "jupiter 01/09/2016 16:32",
 		"configurationClasses" : "jupiter 12/16/2015 01:17",
 		"configureNewApplication:" : "jupiter 12/16/2015 01:18",
 		"exceptionHandlerClass" : "jupiter 12/06/2015 16:13",
 		"install" : "jupiter 12/06/2015 16:14",
-		"libraryClasses" : "jupiter 12/16/2015 13:34",
+		"libraryClasses" : "jupiter 01/09/2016 16:28",
 		"reinstall" : "jupiter 12/06/2015 14:13",
 		"remove" : "jupiter 12/06/2015 14:13",
 		"seasideEmailAccount" : "jupiter 12/16/2015 13:43",
