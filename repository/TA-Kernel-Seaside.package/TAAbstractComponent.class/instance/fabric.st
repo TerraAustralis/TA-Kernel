@@ -1,3 +1,0 @@
-Accessing
-fabric
-	^ TAFabric instance

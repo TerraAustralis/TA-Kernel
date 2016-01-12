@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addPage:" : "jupiter 01/12/2016 14:50",
+		"addPage:announcement:" : "jupiter 01/12/2016 14:44",
+		"close:" : "jupiter 01/12/2016 15:03",
+		"closeAll" : "jupiter 01/12/2016 15:04",
+		"currentPage" : "jupiter 01/12/2016 14:58",
+		"currentPage:" : "jupiter 01/12/2016 14:58",
+		"defaultPage" : "jupiter 01/12/2016 15:00",
+		"defaultPage:" : "jupiter 01/12/2016 15:00",
+		"goToDefault" : "jupiter 01/12/2016 14:58",
+		"goToDefaultOn:" : "jupiter 01/12/2016 14:59",
+		"menuChoices" : "jupiter 01/12/2016 15:01",
+		"menuClass" : "jupiter 01/12/2016 15:01",
+		"onLastPageClosed" : "jupiter 01/12/2016 15:02",
+		"onLastPageClosed:" : "jupiter 01/12/2016 15:03",
+		"pages" : "jupiter 01/12/2016 14:55",
+		"renderContentOn:" : "jupiter 01/12/2016 15:47",
+		"renderCurrentPageOn:" : "jupiter 01/12/2016 16:45",
+		"renderErrorOn:" : "jupiter 01/12/2016 16:45",
+		"states" : "jupiter 01/12/2016 15:24" } }

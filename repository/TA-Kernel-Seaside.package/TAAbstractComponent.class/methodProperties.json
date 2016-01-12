@@ -2,11 +2,14 @@
 	"class" : {
 		"parent:" : "jupiter 6/12/2015 20:46" },
 	"instance" : {
-		"children" : "jupiter 5/5/2015 12:32",
+		"announcer" : "jupiter 01/12/2016 17:04",
+		"children" : "jupiter 01/12/2016 16:18",
 		"componentAt:ifAbsent:" : "jupiter 01/09/2016 21:34",
 		"componentAt:ifAbsentPut:" : "jupiter 5/5/2015 12:30",
+		"componentAt:put:" : "jupiter 01/09/2016 21:46",
 		"components" : "jupiter 6/12/2015 20:45",
-		"fabric" : "jupiter 6/12/2015 20:56",
-		"initialize" : "jupiter 6/12/2015 20:45",
+		"initialize" : "jupiter 01/12/2016 16:20",
 		"parent:" : "jupiter 6/12/2015 20:46",
-		"renderKeepAliveOn:" : "jupiter 5/4/2015 19:49" } }
+		"renderKeepAliveOn:" : "jupiter 5/4/2015 19:49",
+		"selectComponent:" : "jupiter 01/10/2016 14:51",
+		"selectedComponent" : "jupiter 01/10/2016 14:50" } }

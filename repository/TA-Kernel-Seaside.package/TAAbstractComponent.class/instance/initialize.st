@@ -1,4 +1,4 @@
 initialization
 initialize
-	super initialize.
-	components := Dictionary new
+  super initialize.
+  components := Dictionary new

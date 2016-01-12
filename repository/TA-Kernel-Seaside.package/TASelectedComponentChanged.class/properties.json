@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "TAApplicationRoot",
+		"componentOrComponentSelector" ],
+	"name" : "TASelectedComponentChanged",
 	"pools" : [
 		 ],
-	"super" : "TAPageChoiceComponent",
+	"super" : "Announcement",
 	"type" : "normal" }

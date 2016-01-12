@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "TAApplicationRoot",
+		"currentPage",
+		"defaultPage",
+		"lastPageClosedBlock" ],
+	"name" : "TAPageChoiceComponent",
 	"pools" : [
 		 ],
-	"super" : "TAPageChoiceComponent",
+	"super" : "TAAbstractComponent",
 	"type" : "normal" }
