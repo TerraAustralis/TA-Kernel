@@ -1,3 +1,5 @@
 seaside config
 exceptionHandlerClass
-  ^ WARemoteDebuggingWalkbackErrorHandler
+  ^ SpEnvironment isGemStone
+    ifTrue: [ WARemoteDebuggingWalkbackErrorHandler ]
+    ifFalse: [ WAWalkbackErrorHandler ]
