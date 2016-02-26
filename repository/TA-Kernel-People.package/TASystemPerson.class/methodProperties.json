@@ -2,9 +2,13 @@
 	"class" : {
 		"unauthorisedPerson" : "jupiter 12/16/2015 13:52" },
 	"instance" : {
+		"authorisation" : "jupiter 02/26/2016 18:00",
+		"authorisation:" : "jupiter 02/26/2016 18:00",
 		"descriptionPassword" : "jupiter 02/26/2016 17:30",
 		"descriptionValidatedPassword" : "jupiter 02/26/2016 17:30",
 		"password" : "jupiter 02/26/2016 17:31",
 		"password:" : "jupiter 02/26/2016 17:24",
 		"signInDescription" : "jupiter 02/26/2016 17:31",
-		"signUpDescription" : "jupiter 02/26/2016 17:31" } }
+		"signUpDescription" : "jupiter 02/26/2016 17:31",
+		"userName" : "jupiter 02/26/2016 18:00",
+		"userName:" : "jupiter 02/26/2016 18:00" } }
