@@ -1,3 +1,3 @@
 descriptions
 signUpDescription
-  ^ self descriptionEmailAddress , self descriptionValidatedPassword
+  ^ self descriptionEmailAddress , self validatedPasswordDescription

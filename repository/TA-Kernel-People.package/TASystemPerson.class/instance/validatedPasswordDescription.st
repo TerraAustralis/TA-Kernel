@@ -1,5 +1,5 @@
 descriptions
-descriptionValidatedPassword
+validatedPasswordDescription
   ^ self passwordDescription
     componentClass: MAVerifiedPasswordComponent;
     yourself

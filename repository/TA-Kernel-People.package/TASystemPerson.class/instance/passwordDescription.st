@@ -1,5 +1,5 @@
 descriptions
-descriptionPassword
+passwordDescription
   <magritteDescription>
   ^ MAPasswordDescription new
     accessor: #'password';

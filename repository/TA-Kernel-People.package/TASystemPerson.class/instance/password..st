@@ -1,6 +1,6 @@
 accessing
 password: password
-  "password needs to be stored in two ways to support basic authorisation from services that use crypt(), also a far more secure version for TA services"
+  "password needs to be stored in two ways to support basic HTTP authorisation, also a far more secure version for TA services"
 
   | salt |
   self
